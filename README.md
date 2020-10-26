@@ -11,10 +11,18 @@ http://exoplanet.eu/
 
 # Findings
 
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/vbgupta/EDA-Exoplanet-Database/blob/main/Img/mass_vs_orbitalperiod.png?raw=true)
+
+![alt text](https://github.com/vbgupta/EDA-Exoplanet-Database/blob/main/Img/mass_vs_radius.png?raw=true)
+
+![alt text](https://github.com/vbgupta/EDA-Exoplanet-Database/blob/main/Img/Year_discovered.png?raw=true)
+
+![alt text](https://github.com/vbgupta/EDA-Exoplanet-Database/blob/main/Img/Detection_Type_planets.png?raw=true)
+
+![alt text](https://github.com/vbgupta/EDA-Exoplanet-Database/blob/main/Img/molecules.png?raw=true)
+
+![alt text](https://github.com/vbgupta/EDA-Exoplanet-Database/blob/main/Img/mass_vs_radius_1.png?raw=true)
+
+![alt text](https://github.com/vbgupta/EDA-Exoplanet-Database/blob/main/Img/mass_vs_radius_2.png?raw=true)
+
+![alt text](https://github.com/vbgupta/EDA-Exoplanet-Database/blob/main/Img/mass_vs_radius_3.png?raw=true)
