@@ -9,3 +9,12 @@ Reference: https://www.kaggle.com/eduardowoj/exoplanets-database?select=kepler.c
 # **Acknowledgements**
 http://exoplanet.eu/
 
+# Findings
+
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
